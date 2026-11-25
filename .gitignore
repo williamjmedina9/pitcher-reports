@@ -1,0 +1,9 @@
+# Keep data and generated reports out of the public repository
+*.csv
+*.xlsx
+*.xlsm
+*.pdf
+Fall Lives/
+reports/
+__pycache__/
+.ipynb_checkpoints/
