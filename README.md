@@ -1,6 +1,6 @@
 # Pitcher Reports
 
-Automated internal pitcher reports built from TrackMan data. The script can create single game or cumulative reports for any pitcher who appears in the file in a matter of minutes.
+Automated internal pitcher reports built from TrackMan data. The script can create single game or cumulative reports for any pitcher who appears in the file in a matter of minutes. Provides descriptive pitch characteristics, platoon splits, release point, and pitch location information.
 
 ![Sample pitcher report](images/sample-report.png)
 
@@ -30,4 +30,4 @@ If a pitcher isn't in `CSUN_ROSTER`, the script asks for his arm slot and height
 
 **Requires:** pandas, numpy, matplotlib, Pillow (all preinstalled in Colab)
 
-*Player names in this public version have been removed.*
+*Player names in this public version have been removed. Mid-major division one averages gathered from 2026 TrackMan data from the Big West, Mountain West, and West Coast Conferences.*
